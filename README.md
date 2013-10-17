@@ -15,7 +15,7 @@ Supports:
 
 Example:
 
-```
+```python
 appi = Pyappi(adapter=django_adapter)
 
 @appi.wrap
